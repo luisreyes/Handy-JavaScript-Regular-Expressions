@@ -2,13 +2,12 @@ Common Javascript Operators
 ===========================
 >*For all information about these and other operators not mentiones here go to* [w3schools.com](http://www.w3schools.com/js/js_operators.asp)
 
-
-**Capture all Operator Patterns** [*test on regexr*](http://www.regexr.com/39897)
-
+===
+####Capture all operator patterns | [Try it out](http://www.regexr.com/39897)
 ```
 /[\+\-\*\%\=\&\|\~\^\<\>\?\:\!\/]+/g
 ``` 
-
+===
 **Arithmetic Operators**
 ```javascript
 x + y 
