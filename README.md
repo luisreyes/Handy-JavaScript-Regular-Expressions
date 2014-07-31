@@ -6,4 +6,4 @@ Handy Javascript Regular Expressions
 *This is a living document and new or modified regular expressions will be added from time to time.*
 
 
-####[Handling Operators](https://github.com/luisreyesdev/Handy-Regular-Expressions/edit/master/Operators.md)
+####[Handling Operators](https://github.com/luisreyesdev/Handy-Regular-Expressions/edit/master/operators.md)
