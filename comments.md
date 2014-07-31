@@ -16,7 +16,6 @@ function name( params ){
 	// This is a comment in a function
 	return params;	
 }
-
 ```
 
 ===
