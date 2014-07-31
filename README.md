@@ -6,3 +6,5 @@ Handy Javascript Regular Expressions
 
 
 ####[Handling Operators](https://github.com/luisreyesdev/Handy-Regular-Expressions/blob/master/operators.md)
+
+####[Working with Comments](https://github.com/luisreyesdev/Handy-Regular-Expressions/blob/master/comments.md)
