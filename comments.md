@@ -12,6 +12,19 @@ Working with Comments
 /(\/\/).*/g
 ``` 
 ```javascript
+function name( params ){
+	// This is a comment in a function
+	return params;	
+}
+
+```
+
+===
+**Multi-line comments** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
+```javascript
 /*!
  * This is and example of a multi-line comment.
  */
@@ -22,12 +35,9 @@ Working with Comments
  * @param {String} str String to remove duplicate characters from.
  * @returns {String} String with any duplicate characters removed.
  */ 
- 
 function name( params ){
-	// This is a comment in a function
 	return params;	
 }
-
 ```
 
 ===
