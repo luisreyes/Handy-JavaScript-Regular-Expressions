@@ -28,7 +28,7 @@ y--
 **Assignment Operators** | [Try it out](http://www.regexr.com/)
 ```
 (Reg(Ex))[^\here]{soon}
-``` 
+```
 ```javascript
 x = y
 x += y
