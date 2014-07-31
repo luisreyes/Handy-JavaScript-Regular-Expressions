@@ -1,14 +1,18 @@
 Common Javascript Operators
 ===========================
->*For all information about these and other operators not mentiones here go to* [w3schools.com](http://www.w3schools.com/js/js_operators.asp)
+>*For all information about these and other operators not mentioned here go to* [w3schools.com](http://www.w3schools.com/js/js_operators.asp)
 
 ===
 ####Capture all operator patterns | [Try it out](http://www.regexr.com/39897)
 ```
 /[\+\-\*\%\=\&\|\~\^\<\>\?\:\!\/]+/g
 ``` 
+
 ===
-**Arithmetic Operators**
+**Arithmetic Operators** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 x + y 
 x - y
@@ -20,7 +24,11 @@ x++
 y--
 ```
 
-**Assignment Operators**
+===
+**Assignment Operators** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 x = y
 x += y
@@ -30,7 +38,11 @@ x /= y
 x %= y
 ```
 
-**Bitwise Operators**
+===
+**Bitwise Operators** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 x = 5 & 1
 x = 5 | 1
@@ -39,12 +51,17 @@ x = 5 ^ 1
 x = 5 << 1
 x = 5 >> 1
 ```
+
 ===
 ###Comparison, Logical and Conditional Operators
 >*Comparison and Logical operators are used to test for true or false.* [w3schools.com](http://www.w3schools.com/js/js_comparisons.asp)
 
 
-**Comparison Operators**
+===
+**Comparison Operators** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 (x == y)
 (x === y)
@@ -56,14 +73,22 @@ x = 5 >> 1
 (x <= y)
 ```
 
-**Logical Operators**
+===
+**Logical Operators** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 (foo && bar)
 (foo || bar)
 (!foo)
 ```
 
-**Conditional Operator**
+===
+**Conditional Operator** | [Try it out](http://www.regexr.com/)
+```
+(Reg(Ex))[^\here]{soon}
+``` 
 ```javascript
 x = (condition) ? value1 : value2;
 ```
