@@ -1,5 +1,5 @@
-Handling Operators with Regular Expressions
-======================================================
+Handling Javascript Operators
+=============================
 >*For all information about these and other operators not mentioned here go to* [w3schools.com](http://www.w3schools.com/js/js_operators.asp)
 
 ===
