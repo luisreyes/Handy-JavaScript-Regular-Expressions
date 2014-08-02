@@ -22,9 +22,9 @@ function name( params ){
 ```
 
 ===
-**Multi-line comments** | [Try it out](http://www.regexr.com/)
+**Multi-line/Within code comments** | [Try it out](http://www.regexr.com/398ko)
 ```
-(Reg(Ex))[^\here]{soon}
+/(^(\/\*+[\s\S]*?\*\/)|(\/\*+.*\*\/)|^\/\/.*?[\r\n])[\r\n]*/gm
 ``` 
 ```javascript
 /*!
@@ -37,7 +37,7 @@ function name( params ){
  * @param {String} str String to remove duplicate characters from.
  * @returns {String} String with any duplicate characters removed.
  */ 
-function name( params ){
+function name( /*params*/ ){
 	return params;	
 }
 ```
