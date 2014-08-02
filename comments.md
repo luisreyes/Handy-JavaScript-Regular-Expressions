@@ -1,11 +1,14 @@
 Working with Comments
 =====================
 
-####Capture all comments. Single or multiline | [Try it out](http://www.regexr.com/3989a)
+**Capture all comments. Single or multiline** | [Try it out](http://www.regexr.com/3989a)
 ```
 /[\/\*].*/g
 ``` 
-
+**Capture all comments. Single or multiline** *Improved to include all whitespace to EOL* | [Try it out](http://www.regexr.com/398kl)
+```
+/(^(\/\*+[\s\S]*?\*\/)|(\/\*+.*\*\/)|\/\/.+|^\/\/.*?[\r\n])[\r\n]*/gm
+```
 ===
 **Single line comments** | [Try it out](http://www.regexr.com/3989g)
 ```
