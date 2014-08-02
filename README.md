@@ -1,4 +1,4 @@
-Handy Javascript Regular Expressions
+Handy JavaScript Regular Expressions
 ====================================
 
 > Most of the regular expressions in this document have been compiled with the purpose of parsing javascript code.
